@@ -4,7 +4,6 @@ import org.example.StrategyDP.strategy.SportsDS;
 import org.example.StrategyDP.vehicle.Vehicle;
 
 public class SUV extends Vehicle {
-
     public SUV(){
         super(new SportsDS());
     }
